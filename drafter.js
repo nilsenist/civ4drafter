@@ -96,8 +96,6 @@
 				if ((index == "Alexander") || (index == "Asoka") || (index == "Augustus") || (index == "Bismarck") || (index == "Boudica") || (index == "Brennus") || (index == "Catherine") || (index == "Charlemagne")  || (index == "Churchill") || (index == "Cyrus") || (index == "Darius") || (index == "DeGaulle") || (index == "Elizabeth") ||  (index == "Frederick") ||  (index == "Gandhi") ||  (index == "Genghis") ||(index == "Gilgamesh") || (index == "Hammurabi") || (index == "Hannibal") || (index == "Hatshepsut") || (index == "Huayna") || (index == "Isabella") || (index == "Joao") ||
 					(index == "Julius") || (index == "Justinian") || (index == "Kublai") || (index == "Lincoln") || (index == "Louis") || (index == "Mansa") || (index == "Mao") || (index == "Mehmed") || (index == "Montezuma") || (index == "Napoleon") || (index == "Pacal") || (index == "Pericles") || (index == "Peter") || (index == "Qin") || (index == "Ragnar") || (index == "Ramesses") || (index == "Roosevelt") || (index == "Saladin") || (index == "Shaka") || (index == "Sitting") ||
 					(index == "Stalin") || (index == "Suleiman") || (index == "Suryavarman") || (index == "Tokugawa") || (index == "Victoria") || (index == "Wang") || (index == "Washington") || (index == "Willem") || (index == "Zara")) {
-					allCivs[index] = false;
-				} else {
 					allCivs[index] = true;
 				}
 	  		});
