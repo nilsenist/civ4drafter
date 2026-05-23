@@ -88,6 +88,7 @@ $(document).ready(function() {
 		});
 	}
 	generateCivTable();
+	updateBanned(totalCivs, bannedCivs);
 
 	// toggle disable or enabled civ
 	$(leaderSelector).bind('click', toggleState);
